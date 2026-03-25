@@ -1,6 +1,5 @@
-# Tick-Volume-VPIN
+# Tick-Volume-VPIN-Model + MT5 Data Cleaner
 
-# Tick-VPIN-MT5-Cleaner + Model
 
 **Complete Jupyter Notebook implementation** accompanying the dissertation  
 **Author:** Luccas Endringer  
